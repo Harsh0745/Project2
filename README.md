@@ -1,2 +1,2 @@
-This project is created from local computer
-created by harsh verma
+This project is created from local computer.
+Created by Harsh Verma.
